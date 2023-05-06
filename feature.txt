@@ -1,2 +1,6 @@
 feature 1
+<<<<<<< HEAD
 feature small mistake
+=======
+feature big mistake fix
+>>>>>>> featureX
